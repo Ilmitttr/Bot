@@ -20,29 +20,29 @@ global.APIKeys = {
 }
 
 //owmner v card
-global.owner = ['6285263390832'] //ur owner number
-global.ownernomer = "6282219205859" //ur owner number2
-global.ownername = "ŠÅFĒŞŢŐŘË" //ur owner name
-global.namaku = "SafeStore"
-global.ytname = "RealCRAFT" //ur yt chanel name
-global.socialm = "JANGAN SPAM" //ur github or insta name
-global.location = "Riau PekanBaru Sungay Raya, Indonesia " //ur location
+global.owner = ['6287848666980'] //ur owner number
+global.ownernomer = "6287848666980" //ur owner number2
+global.ownername = "IlmiTzy" //ur owner name
+global.namaku = "IlmiXyz"
+global.ytname = "-" //ur yt chanel name
+global.socialm = "ilmitttr" //ur github or insta name
+global.location = "Pekalongan " //ur location
 
 //new
-global.botname = "SafeStore - 4K23"
-global.ownernumber = '6285263390832'
-global.ownername = 'SafeStore'
-global.ownerNumber = ["6285263390832@s.whatsapp.net"]
-global.ownerweb = "https://ptero.safestore.cloud"
-global.websitex = "https://ptero.safestore.cloud"
-global.wagc = "https://chat.whatsapp.com/FPy7Z288mzRJxVAjDGEFl4"
+global.botname = "LeleBot"
+global.ownernumber = '6287848666980'
+global.ownername = 'IlmiTzy'
+global.ownerNumber = ["6287848666980@s.whatsapp.net"]
+global.ownerweb = "https://"
+global.websitex = "https://"
+global.wagc = "https://chat.whatsapp.com/JmOMgSPgmeQCPbtg3kOXaM"
 global.themeemoji = '🚩'
-global.wm = "Created By Şafestore"
-global.wmbot = "Created By Kyuu"
+global.wm = "Created By IlmiBotz-V2"
+global.wmbot = "Created By Bot"
 global.botscript = 'Sc Ini Private🤣?' //script link
-global.packname = "SafeStore - 𝐁 𝐨 𝐭"
-global.author = "SafeMod,"
-global.creator = "6285263390832@s.whatsapp.net"
+global.packname = "Lele - 𝐁 𝐨 𝐭"
+global.author = "LeleMod,"
+global.creator = "6287848666980@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.hituet = 0
 global.running = "Panel Pterodactyl"
